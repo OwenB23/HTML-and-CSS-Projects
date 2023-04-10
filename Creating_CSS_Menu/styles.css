@@ -28,7 +28,7 @@ body {
 
 .menu li {
   color: #b3b3b3;
-  display: inline block;
+  display: inline-block;
   margin-right: -2px;
   position: relative;
   padding: 12px 40px;
@@ -42,7 +42,7 @@ body {
   color: #fff;
 }
 
-.menu li:hover {
+.menu li:hover ul {
   display: block;
   opacity: 1;
   visibility: visible;
